@@ -1,1 +1,1 @@
-# MachineLearning_ws
+# machinelearning-ws
