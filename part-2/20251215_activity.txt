@@ -1,0 +1,6 @@
+Email Classifier - Spam or Ham 
+
+1. Find a classifier to use
+2. Tune the classifier to find the best precision and recall
+
+https://www.kaggle.com/datasets/ashfakyeafi/spam-email-classification
